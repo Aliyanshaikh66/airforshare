@@ -1,0 +1,14 @@
+$bodyColor: #F4F4F4;
+
+.body {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: $bodyColor;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1em;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
