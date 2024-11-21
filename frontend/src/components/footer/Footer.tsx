@@ -6,8 +6,8 @@ const Footer = () => {
     return (
         <>
             <div className="footer">
-                <p>2024 - {new Date().getFullYear()} github.com/ahadsts9901</p>
-                <p>Made by <a target="_blank" href={githubUrl}>Muhammad Ahad</a> with ❤️</p>
+                <p>2024 - {new Date().getFullYear()} github.com/aliyanshaikh66</p>
+                <p>Made by <a target="_blank" href={githubUrl}>Aliyan Shaikh</a> with ❤️</p>
                 <div className="social-links">
                     <a target="_blank" href={facebookUrl}><FaFacebook /></a>
                     <a target="_blank" href={linkedinUrl}><FaLinkedinIn /></a>
